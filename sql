@@ -1,0 +1,2 @@
+Note: This repository includes only the Python program used for processing or interacting with the database. Due to the large size of the SQL data, it is not feasible to display or upload the entire dataset here. To ensure efficient version control and repository performance, only a sample schema or minimal example data may be included.
+If you require access to the full SQL data, please contact me directly or use the instructions provided to access it from an external source.
